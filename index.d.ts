@@ -60,7 +60,7 @@ declare interface Props {
    * On native the default value is 1 as the physics works differently there.
    * If swipeRequirementType is set to position it is recommended to set this based on the screen width so cards can be swiped on all screen sizes.
    *
-   * @default 300
+   * @default 500
    */
   swipeThreshold?: number
 
