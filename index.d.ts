@@ -88,4 +88,4 @@ declare interface Props {
 
 declare const TinderCard: React.FC<Props>
 
-export = TinderCard
+export default TinderCard

@@ -356,4 +356,4 @@ const TinderCard = React.forwardRef(
   }
 );
 
-module.exports = TinderCard;
+export default TinderCard;
